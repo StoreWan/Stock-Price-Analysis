@@ -2,7 +2,7 @@ import yfinance as yf
 import matplotlib.pyplot as plt
 
 # Define the stock symbol and time range
-stock_symbol = "AAPL" 
+stock_symbol = "MSFT" 
 start_date = "2020-01-01"
 end_date = "2025-01-01"
 
