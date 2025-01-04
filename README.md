@@ -18,8 +18,7 @@ This project analyzes historical stock price data and visualizes key trends, suc
 ### Clone the Repository
 To get started, clone this repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/stock-price-analysis.git
-cd stock-price-analysis 
+https://github.com/WilliamBlochNielsen/Stock-Price-Analysis.git
 ```
 Install the `yfinance` library
 ```bash
