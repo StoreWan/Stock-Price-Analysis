@@ -15,8 +15,7 @@ This project analyzes historical stock price data and visualizes key trends, suc
 
 ## Installation
 
-### Clone the Repository
-To get started, clone this repository to your local machine:
+Clone the Repository
 ```bash
 https://github.com/WilliamBlochNielsen/Stock-Price-Analysis.git
 ```
