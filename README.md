@@ -19,4 +19,16 @@ This project analyzes historical stock price data and visualizes key trends, suc
 To get started, clone this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/stock-price-analysis.git
-cd stock-price-analysis
+cd stock-price-analysis 
+```
+Install the `yfinance` library
+```bash
+pip install pandas matplotlib yfinance
+```
+Change the stock_symbol as well as time range
+```bash
+stock_symbol = "MSFT"  # Example: Apple Inc.
+start_date = "2020-01-01"
+end_date = "2025-01-01"
+```
+
